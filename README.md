@@ -2,7 +2,7 @@
 
 # SentinelFlow
 
-SentinelFlow is a powerful open-source microservices communication library that integrates the concept of Flow Management in saga orchestration. It addresses security concerns in microservices connectivity by leveraging port switching, fake propagation messages, and encryption to protect against unauthorized access and potential attacks.
+SentinelFlow is a powerful open-source microservices communication library that integrates the concept of Flow Management in saga orchestration. It addresses security concerns in microservices connectivity by leveraging port switching, fake messages propagation, and encryption to protect against unauthorized access and potential attacks.
 
 
     ⚠ This project is under construct
@@ -14,7 +14,7 @@ Microservices architecture brings flexibility and scalability to modern applicat
 ## Features
 
 - **Flow Management**: Simplifies saga orchestration in microservices.
-- **Security**: Enhances security through port switching, fake propagation messages, and encryption.
+- **Security**: Enhances security through port switching, fake messages propagation, and encryption.
 - **Language Support**: Clients Written in multiple languages, including Node.js, Go, Java, Python, and more.
 
 ## Getting Started
